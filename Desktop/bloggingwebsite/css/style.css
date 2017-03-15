@@ -14,3 +14,18 @@
   border: 2px solid;
   border-radius: 5px;
 }
+div {
+  border:2px solid green;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  width: 60%;
+
+}
+img {
+  width: inherit;
+}
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: salmon;
+}
