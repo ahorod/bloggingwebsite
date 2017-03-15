@@ -1,0 +1,16 @@
+.main{
+  text-align: justify;
+  font-size: 15px;
+  font-family: fantasy;
+  color: darkblue;
+}
+.important {
+  text-align: center;
+  font-size: 17px;
+  color: pink;
+}
+.personal {
+  text-align:center;
+  border: 2px solid;
+  border-radius: 5px;
+}
