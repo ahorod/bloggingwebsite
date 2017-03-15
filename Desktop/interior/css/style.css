@@ -6,4 +6,8 @@ img {
   text-align: justify;
   float:left;
   width:30%;
+  border: 2px dashed orange;
+  background-color: yellow;
+  margin: 4px;
+  padding: 4px;
 }
