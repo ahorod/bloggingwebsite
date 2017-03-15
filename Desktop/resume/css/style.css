@@ -1,0 +1,21 @@
+.education {
+  font-family: fantasy;
+}
+ul {
+  font-weight: bold;
+}
+.work {
+  font-family: monospace;
+}
+.technologies{
+  background-color: lightgreen;
+}
+.other{
+  background-color: yellow;
+}
+.year {
+  text-shadow: 2px 2px gray;
+}
+h2 {
+  text-decoration: underline;
+}
